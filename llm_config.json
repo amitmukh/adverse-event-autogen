@@ -1,11 +1,11 @@
 [
     {
         "model": "gpt-4-turbo",
-        "api_key": "c9641ff5f83046b3b9a90a50d147c045",
+        "api_key": "<API Key>",
         "base_url": "https://openainorthcentral.openai.azure.com/",
         "api_type": "azure",
         "api_version": "2024-03-01-preview",
-        "open_fda_key": "SnxC8nr4Si3zQhI5zgAGOXK2BumHgbnJxtEa3SGV",
+        "open_fda_key": "<Key>",
         "temperature": 0.0
     }
 ]
